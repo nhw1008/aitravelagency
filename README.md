@@ -14,11 +14,17 @@
 🏗️ 시스템 아키텍처
 
   👤 사용자
+  
     ↓
+    
   💻 Flutter 웹앱 (home_screen.dart, planner_screen.dart)
+  
     ↓
+    
   🛡️ Node.js 프록시 서버 (proxy_server.js, Express)
+  
     ↓
+    
   🤖 Perplexity AI API
   
 📁 주요 파일 역할
