@@ -29,7 +29,8 @@ Flutter 웹앱에서 사용자가 여행지, 날짜, 예산, 각 날짜별 가�
 
 ## 🏗️ 시스템 아키텍처
 
-![image](https://github.com/user-attachments/assets/31c229bb-5d74-427f-ae51-17690a002a15)
+![image](https://github.com/user-attachments/assets/714823cd-f050-4466-91ad-ab263c406ccd)
+
 
 
 ## 📁 프로젝트 구조
